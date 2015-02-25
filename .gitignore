@@ -2,5 +2,4 @@ _site/
 .sass-cache/
 *.flv
 *.mp4
-*.mp3
 Thumbs.db
